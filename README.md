@@ -46,3 +46,78 @@ axios({
 })
 
 ```
+Sample Results:
+
+
+```
+[Running] node "c:\Users\cheer\Documents\Azure\ukraine-english-translator.js"
+[
+    {
+        "translations": [
+            {
+                "text": "Within the framework of the constant dialogue, I had another conversation with @POTUS. On the agenda were issues of security, financial support for Ukraine and the continuation of the sanctions policy towards the Russian Federation.",
+                "to": "en"
+            },
+            {
+                "text": "在不断对话的框架内，我与@POTUS进行了另一次对话。议程上包括安全问题、对乌克兰的财政支助以及继续对俄罗斯联邦的制裁政策。",
+                "to": "zh-Hans"
+            },
+            {
+                "text": "不斷對話緊嘅框架內，我與@POTUS進行了另一次對話。 議程上包括安全問題、對烏克蘭嘅財政支助以及繼續對俄儸斯聯邦的制裁政策。",
+                "to": "yue"
+            },
+            {
+                "text": "En el marco del diálogo constante, tuve otra conversación con @POTUS. En el programa figuraban cuestiones de seguridad, apoyo financiero a Ucrania y la continuación de la política de sanciones contra la Federación de Rusia.",
+                "to": "es"
+            },
+            {
+                "text": "Nell'ambito del dialogo costante, ho avuto un'altra conversazione con @POTUS. All'ordine del giorno c'erano questioni di sicurezza, sostegno finanziario all'Ucraina e la continuazione della politica di sanzioni nei confronti della Federazione Russa.",
+                "to": "it"
+            },
+            {
+                "text": "Dans le cadre du dialogue constant, j’ai eu une autre conversation avec @POTUS. Les questions de sécurité, d’appui financier à l’Ukraine et de maintien de la politique de sanctions à l’égard de la Fédération de Russie étaient à l’ordre du jour.",
+                "to": "fr"
+            },
+            {
+                "text": "निरंतर संवाद के ढांचे के भीतर, मैंने @POTUS के साथ एक और बातचीत की। एजेंडे में सुरक्षा, यूक्रेन के लिए वित्तीय सहायता और रूसी संघ के प्रति प्रतिबंध नीति की निरंतरता के मुद्दे थे।",
+                "to": "hi"
+            },
+            {
+                "text": "في إطار الحوار المستمر ، أجريت محادثة أخرى مع @POTUS. وكان على جدول الأعمال مسائل تتعلق بالأمن والدعم المالي لأوكرانيا ومواصلة سياسة الجزاءات تجاه الاتحاد الروسي.",
+                "to": "ar"
+            },
+            {
+                "text": "В рамках постоянного диалога у меня состоялся еще один разговор с @POTUS. На повестке дня были вопросы безопасности, финансовой поддержки Украины и продолжения санкционной политики в отношении Российской Федерации.",
+                "to": "ru"
+            },
+            {
+                "text": "No âmbito do diálogo constante, tive outra conversa com @POTUS. Na ordem do dia estavam questões de segurança, de apoio financeiro à Ucrânia e da continuação da política de sanções em relação à Federação Russa.",
+                "to": "pt-PT"
+            },
+            {
+                "text": "Dalam kerangka dialog yang konstan, saya melakukan percakapan lain dengan @POTUS. Dalam agenda tersebut adalah masalah keamanan, dukungan keuangan untuk Ukraina dan kelanjutan kebijakan sanksi terhadap Federasi Rusia.",
+                "to": "id"
+            },
+            {
+                "text": "絶え間ない対話の枠組みの中で、私は@POTUSと別の会話をしました。議題は、安全保障、ウクライナへの財政支援、ロシア連邦に対する制裁政策の継続の問題であった。",
+                "to": "ja"
+            },
+            {
+                "text": "In het kader van de constante dialoog had ik nog een gesprek met @POTUS. Op de agenda stonden kwesties als veiligheid, financiële steun aan Oekraïne en de voortzetting van het sanctiebeleid ten aanzien van de Russische Federatie.",
+                "to": "nl"
+            },
+            {
+                "text": "Im Rahmen des ständigen Dialogs hatte ich ein weiteres Gespräch mit @POTUS. Auf der Tagesordnung standen Fragen der Sicherheit, der finanziellen Unterstützung der Ukraine und der Fortsetzung der Sanktionspolitik gegenüber der Russischen Föderation.",
+                "to": "de"
+            },
+            {
+                "text": "끊임없는 대화의 틀 안에서 저는 @POTUS 또 다른 대화를 나눴습니다. 의제에는 안보 문제, 우크라이나에 대한 재정적 지원, 러시아 연방에 대한 제재 정책의 지속이 있었다.",
+                "to": "ko"
+            }
+        ]
+    }
+]
+
+[Done] exited with code=0 in 0.505 seconds
+
+```
