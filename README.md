@@ -5,6 +5,8 @@ and most widely used  major languages so many others in the world can read and u
 Azure Cognitive Services Translator is very accurate, fast, developer friendly and powerful. 
 Only a few lines of codes can translate Ukranian language ACCURATELY into 15 most widely used major languages in ~0.5 seconds.
 
+<p>My Ukrainian friends told me it is VERY NATIVELY ACCURATE and much better than Google Translate. See my LinkedIn post at https://www.linkedin.com/feed/update/urn:li:activity:6906044994268860416/  Google translate has a couple mistakes inside but Azure translate is ~100% natively correct ! 
+
 Sample code:
 ```
 // Copyright (c) 2022, Walter Lee
@@ -127,3 +129,4 @@ Sample Results:
 [Done] exited with code=0 in 0.505 seconds
 
 ```
+
