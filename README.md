@@ -129,8 +129,10 @@ Sample Results:
 [Done] exited with code=0 in 0.505 seconds
 
 ```
-Sample Tweet --> 15 different languages:
-    ![image of Azure translate](/Azure%20AI%20translate%20into%2015%20diff%20lang%203.png)
+NATIVELY ACCURATE: Sample Ukrainian Tweet --> 15 different languages:
+    ![image of Azure Tweet translate](/Azure%20AI%20translate%20into%2015%20diff%20lang%203.png)
     
+Super FAST - 15 translations in ONLY 0.5 sec ! 
+     ![image of 15 translations in ONLY 0.5s](/Azure%20AI%20translate%20into%2015%20diff%20lang%204.png)
     
     
