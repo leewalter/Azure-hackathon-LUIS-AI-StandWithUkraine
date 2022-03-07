@@ -1,9 +1,9 @@
 # Azure-hackathon-LUIS-AI-StandWithUkraine
 
-This demo is to use Azure Cognitive LUIS AI translator to translate Ukranian language tweets by Ukraine President @ZelenskyyUa into 15 different 
+This demo is to use Azure Cognitive LUIS AI translator to translate Ukrainian language tweets by Ukraine President @ZelenskyyUa into 15 different 
 and most widely used  major languages so many others in the world can read and understand the current crisis at Ukraine. 
 Azure Cognitive Services Translator is very accurate, fast, developer friendly and powerful. 
-Only a few lines of codes can translate Ukranian language ACCURATELY into 15 most widely used major languages in ~0.5 seconds.
+Only a few lines of codes can translate Ukrainian language ACCURATELY into 15 most widely used major languages in ~0.5 seconds.
 
 <p>My Ukrainian friends told me it is VERY NATIVELY ACCURATE and much better than Google Translate. See my LinkedIn post at https://www.linkedin.com/feed/update/urn:li:activity:6906044994268860416/  Google translate has a couple mistakes inside but Azure translate is ~100% natively correct ! 
 
@@ -129,4 +129,8 @@ Sample Results:
 [Done] exited with code=0 in 0.505 seconds
 
 ```
-
+Sample Tweet --> 15 different languages:
+    ![image of Azure translate](/Azure%20AI%20translate%20into%2015%20diff%20lang%203.png)
+    
+    
+    
